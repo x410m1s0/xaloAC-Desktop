@@ -1,3 +1,5 @@
+https://discord.gg/psq6P3fVvN
+
 # xaloAC
 
 **xaloAC**, `x410m1s0` tarafından geliştirilen, Windows odaklı bir masaüstü dosya komuta merkezidir. Araç; dosyaları tarar, indeksler, sınıflandırır, arar, önizler, hash üretir, arşivleri inceler ve isteğe bağlı olarak dosyaları kategori klasörlerine düzenler.
